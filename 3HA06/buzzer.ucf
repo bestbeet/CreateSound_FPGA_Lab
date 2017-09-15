@@ -1,0 +1,6 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clk" LOC = P127;
+NET "onoff" LOC = P25;
+NET "sp" LOC = P52;
